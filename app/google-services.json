@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861556094535",
+    "firebase_url": "https://complain-management-bc2d8.firebaseio.com",
+    "project_id": "complain-management-bc2d8",
+    "storage_bucket": "complain-management-bc2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861556094535:android:f541d0fca8877b7eace362",
+        "android_client_info": {
+          "package_name": "com.hacks.complainmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861556094535-grertl5qssj6rm95ia8ok718mbev7d69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2Gd76AT_XL2vmccDhenfr22cYSGaHI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861556094535-grertl5qssj6rm95ia8ok718mbev7d69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
